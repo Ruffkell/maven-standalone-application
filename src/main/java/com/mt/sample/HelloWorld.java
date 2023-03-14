@@ -9,7 +9,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("hello king how are you doing? !! Today Date is:  " + getLocalCurrentDate());
+		System.out.println("Hello AMS just make your head big !! Today Date is:  " + getLocalCurrentDate());
 
 	}
 
